@@ -35,5 +35,5 @@ A personalized workout and meal tracking application.
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/mostafa-amer-1470a3290](https://linkedin.com/in/mostafa-amer-1470a3290)
-- **Email:** Mamer2052001@gmail.com
+- **Email:** amer2052001@gmail.com
 - **Location:** Cairo, Egypt
