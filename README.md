@@ -1,8 +1,10 @@
-# Hi, I'm Mostafa Amer 👋
-### Flutter Developer
-
-I transform complex business ideas into reliable, high-performance mobile apps. My focus is on delivering clean, maintainable code and ensuring a smooth, responsive user experience.
-
+# I'm Mostafa Amer 👋
+> **Mobile App Developer  |  Flutter Developer.**
+    
+### 👤 About Me
+- 📱 **Mobile Developer** specialized in **Flutter & Dart**.
+- 🏗️ Focused on **Clean Architecture** and **Performance Optimization**.
+- 🛠️ Maintaining highly organized development environments.
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -19,4 +21,3 @@ I transform complex business ideas into reliable, high-performance mobile apps. 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/mostafa-amer-1470a3290](https://linkedin.com/in/mostafa-amer-1470a3290)
 - **Email:** amer2052001@gmail.com
-- **Location:** Cairo, Egypt
